@@ -1,1 +1,2 @@
 Hi hello this is hello file in new branch
+this is some conflict changes in new branch.
