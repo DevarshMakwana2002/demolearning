@@ -1,0 +1,18 @@
+20/02/2023
+
+InTime :- 12:30 PM
+OutTime :- 09:00 PM
+
+Name : Devarsh Makwana
+LearnTechnology : GIT
+work Hours :8
+total work hour=176 hours
+Today's work :- 
+	-> git Branches
+	-> git merge
+	-> git conflict
+	-> git conflict solving
+	-> varios stratagies of merging
+	-> github
+	-> git pull and clone
+	-> cli commands
