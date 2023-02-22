@@ -1,2 +1,1 @@
-Hi hello this is hello file in new1 branch
-this is some conflict changes in new1 branch  fffff ///this is change in new branch and i think this will cause conflict///.
+ls
