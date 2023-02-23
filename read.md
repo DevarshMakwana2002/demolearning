@@ -10,3 +10,4 @@ and lets see how things going
 now i am going to change in master branch 
 and lets see how things going 
 >>>>>>> master
+this is change for without -u
